@@ -1,0 +1,6 @@
+   1: Line1
+   2: Line2
+   3: 
+   4: Line3
+
+Total number of lines = 4
